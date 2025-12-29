@@ -1,0 +1,10 @@
+
+Bug ID: BUG_001
+Summary: Error message unclear for invalid login
+Severity: Medium
+Priority: High
+Steps:
+1. Enter invalid credentials
+2. Click login
+Expected: Clear error message
+Actual: Generic error shown

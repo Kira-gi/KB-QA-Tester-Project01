@@ -1,0 +1,12 @@
+
+Test Objective:
+Verify login, cart, and checkout functionality.
+
+Scope:
+Login, Add to Cart, Checkout
+
+Test Types:
+Functional, Regression, Negative
+
+Environment:
+Chrome Browser, Windows OS

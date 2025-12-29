@@ -1,0 +1,8 @@
+
+TC_ID: TC_LOGIN_001
+Scenario: Valid Login
+Steps:
+1. Navigate to site
+2. Enter valid username/password
+3. Click Login
+Expected Result: User logged in successfully

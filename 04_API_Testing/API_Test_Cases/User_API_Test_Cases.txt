@@ -1,0 +1,5 @@
+
+Endpoint: /api/users
+Method: GET
+Expected Status: 200
+Validation: User list returned
